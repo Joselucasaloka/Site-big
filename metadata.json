@@ -1,0 +1,6 @@
+{
+  "name": "Big Rock Hamburgueria - Jataí",
+  "description": "Cardápio completo, portfólio gastronômico de burgers artesanais e agendamento de mesas e pedidos da Big Rock Hamburgueria em Jataí, GO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
